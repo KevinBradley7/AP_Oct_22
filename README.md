@@ -4,3 +4,4 @@
 
 "This is a change for stashing"
 
+"Change made as collaborator."
